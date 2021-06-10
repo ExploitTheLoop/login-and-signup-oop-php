@@ -44,8 +44,3 @@ $db->signUp($tablename, $fullname, $username, $password, $email);
 
 Feel free to report any issues related to this.
 
-## Authors
-
-* **Vishnu Sivadas** - *Developer* - [Website](https://www.vishnusivadas.com/)
-
-Check out my other works [@VishnuSivadasVS](https://github.com/VishnuSivadasVS)
